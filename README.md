@@ -6,6 +6,7 @@ This is a template to write Jupyter notebook with VSCode with remote container e
 - Clone it to your local machine.
 - Open the cloned repository with remote container extension of VSCode.
 - Have fun!
+  - See [examples/tutorial.ipynb](examples/tutorial.ipynb) how it works in VSCode.
 
 ## License
 This repository is licensed under the [Unlicense](LICENSE) (a.k.a. Public Domain). Under this license, you can:
