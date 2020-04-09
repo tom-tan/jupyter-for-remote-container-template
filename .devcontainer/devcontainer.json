@@ -8,6 +8,7 @@
 		"python.pythonPath": "/opt/conda/bin/python",
 		"python.linting.enabled": false,
 		"python.condaPath": "/opt/conda/bin/conda",
+		"python.dataScience.textOutputLimit": 0,
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
